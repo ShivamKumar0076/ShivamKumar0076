@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Shivam Kumar 👋
 
-<!--
-**ShivamKumar0076/ShivamKumar0076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Graduate from Delhi University
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning:
+- Excel
+- SQL
+- Power BI
+- Data Cleaning
+- Data Visualization
+
+## Skills
+- Microsoft Excel
+- SQL
+- Power BI
+- Data Cleaning
+- Dashboard Development
+- Data Analysis
+
+## Projects
+
+### Retail Sales Analytics Dashboard
+Interactive Excel Dashboard for analyzing retail sales performance, KPIs, and business insights.
+
+### Power BI Sales Dashboard
+Sales analysis dashboard with KPIs, trends, and interactive visualizations.
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/shivam-kumar-898293412
+
+GitHub:
+github.com/ShivamKumar0076
+
+## Career Goal
+
+To start my career in Data Analytics and build data-driven solutions using Excel, SQL, and Power BI.
