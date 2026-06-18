@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q5YjN6NnR4c3V2djQ3Y2g1ZmN4bDB0cDJ6ZmRkNnA4OHk3bW1vZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Shivam+Kumar;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI;Data+Cleaning+%26+Visualization;Building+Interactive+Dashboards" alt="Typing SVG" />
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Shivam%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Excel%20|%20SQL%20|%20Power%20BI&descAlignY=58" />
 </p>
 # Hi, I'm Shivam Kumar 👋
 
