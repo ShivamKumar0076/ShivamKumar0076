@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q5YjN6NnR4c3V2djQ3Y2g1ZmN4bDB0cDJ6ZmRkNnA4OHk3bW1vZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500">
+</p>
 # Hi, I'm Shivam Kumar 👋
 
 ## About Me
