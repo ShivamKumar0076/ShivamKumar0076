@@ -16,6 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/DATA_ANALYTICS-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/EXCEL-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=22C55E" />
   <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
   <img src="https://img.shields.io/badge/POWER_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=FACC15" />
   <img src="https://img.shields.io/badge/PYTHON-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
