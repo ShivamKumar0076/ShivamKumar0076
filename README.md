@@ -16,9 +16,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/DATA_ANALYTICS-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=60A5FA" />
+  
   <img src="https://img.shields.io/badge/EXCEL-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=21A366" />
+  
   <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/POWER_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  
+  <img src="https://img.shields.io/badge/POWER%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  
   <img src="https://img.shields.io/badge/PYTHON-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
